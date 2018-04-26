@@ -1,8 +1,9 @@
-## 6.1.0 (April 1, 2018)
+## 6.1.0 (May 1, 2018)
 ---
 ### New Features
 - [#818](https://github.com/openscope/openscope/issues/818) - Allows selection of only aircraft within controlled airspace
 - [#838](https://github.com/openscope/openscope/issues/838) - Add Zürich Airport (LSZH)
+- [#24](https://github.com/openscope/openscope/issues/24) - Add command to inform arrivals of assigned landing runway
 
 
 
@@ -17,6 +18,11 @@
 
 ### Enhancements & Refactors
 - [#910](https://github.com/openscope/openscope/issues/910) - Reactivate KBOS and KSTL
+- [#856](https://github.com/openscope/openscope/issues/856) - Overhaul of Doha Hamad International Airport (OTHH)
+- [#246](https://github.com/openscope/openscope/issues/246) - Overhaul OMAA (Abu Dhabi)
+- [#908](https://github.com/openscope/openscope/issues/908) - Updates KSEA to AIRAC 1804
+- [#928](https://github.com/openscope/openscope/issues/928) - Updates KPDX to AIRAC 1804
+
 
 
 

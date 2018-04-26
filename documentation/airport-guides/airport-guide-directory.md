@@ -27,4 +27,6 @@ In order to help you learn the details of each particular airspace, an "airport 
 - [LROP - Bucharest Henri Coanda International Airport](lrop.md)
 - [LSZH - Zürich Airport](lszh.md)
 - [MDSD - Las Américas International Airport](mdsd.md)
+- [OMAA - Abu Dhabi International Airport](omaa.md)
+- [OTHH - Doha Hamad International Airport](othh.md)
 - [SAEZ - Ministro Pistarini International Airport](saez.md)
