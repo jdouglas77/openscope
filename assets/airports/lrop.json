@@ -331,7 +331,7 @@
         "VIKBI": ["N44d15m30.999", "E24d39m20.998"]
     },
     "airways": {
-        "L5":   ["UBOGU", "TOSVI", "VEVIN", "NETUL", "RIVOS", "CND"],
+        "L5"  : ["UBOGU", "TOSVI", "VEVIN", "NETUL", "RIVOS", "CND"],
         "L601": ["DENAK", "VEVIN", "DINRO"],
         "L602": ["KOMAN", "NERDI"],
         "L619": ["BALIK", "ARGES", "ASNEL", "BUKEL", "PELUR", "EDETA"],
@@ -1364,7 +1364,6 @@
             ["N44d40m29.730", "E25d35m07.770", "N44d40m38.560", "E25d35m34.390"],
             ["N44d40m38.560", "E25d35m34.390", "N44d40m43.960", "E25d36m02.750"],
             ["N44d40m43.960", "E25d36m02.750", "N44d40m45.790", "E25d36m32.000"]
-
         ]
     }
 }
