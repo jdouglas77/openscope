@@ -11,6 +11,7 @@
 
 ### Bugfixes
 - [#918](https://github.com/openscope/openscope/issues/918) - Fix failed load by verifying "last airport" in loadList before attempting to use it
+- [#939](https://github.com/openscope/openscope/issues/939) - Fix airline fleet detection logic that was erroring during spawn of properly declared patterns
 
 
 
@@ -22,7 +23,9 @@
 - [#246](https://github.com/openscope/openscope/issues/246) - Overhaul OMAA (Abu Dhabi)
 - [#908](https://github.com/openscope/openscope/issues/908) - Updates KSEA to AIRAC 1804
 - [#928](https://github.com/openscope/openscope/issues/928) - Updates KPDX to AIRAC 1804
-
+- [#923](https://github.com/openscope/openscope/issues/923) - Overhaul of KABQ
+- [#931](https://github.com/openscope/openscope/issues/931) - Updates KDCA to AIRAC 1804
+- [#241](https://github.com/openscope/openscope/issues/241) - Overhaul of London Luton Airport (England, United Kingdom)
 
 
 
