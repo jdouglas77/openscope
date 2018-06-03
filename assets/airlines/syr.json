@@ -1,6 +1,6 @@
 {
     "icao": "syr",
-    "name": "SyrianAir",
+    "name": "Syrian Arab Airlines",
     "callsign": {
         "name": "Syrianair",
         "callsignFormats": [
@@ -9,10 +9,12 @@
     },
     "fleets": {
         "default": [
-            ["A320",  6],
-            ["AT72",  2],
-            ["IL76",  4],
-            ["T134",  2]
+            ["A320", 6],
+            ["AT72", 2],
+            ["A343", 1]
+        ],
+        "a343": [
+            ["A343", 1]
         ]
     }
 }
