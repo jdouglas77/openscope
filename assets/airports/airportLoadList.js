@@ -458,7 +458,7 @@ window.AIRPORT_LOAD_LIST = (function() { // eslint-disable-line wrap-iife
         // },
         {
             icao: 'othh',
-            level: 'easy',
+            level: 'hard',
             name: 'Doha Hamad International Airport',
             premium: false,
             wip: false
